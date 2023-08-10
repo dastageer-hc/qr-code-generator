@@ -4,7 +4,7 @@
 Text to QR Code image generator made in React JS
 
 # Live Link
-[1]: https://qr-generator-dastageer.deno.dev/
+<a href="https://qr-generator-dastageer.deno.dev/" target="blank">QR Generator</a>
 
 
 
