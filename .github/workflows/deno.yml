@@ -10,9 +10,9 @@ name: Deno
 
 on:
   push:
-    branches: ["qr_code_generator_main"]
+    branches: ["main"]
   pull_request:
-    branches: ["qr_code_generator_main"]
+    branches: ["main"]
 
 permissions:
   contents: read

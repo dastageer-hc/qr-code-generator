@@ -1,9 +1,9 @@
 name: Deploy
 on:
   push:
-    branches: qr_code_generator_main
+    branches: main
   pull_request:
-    branches: qr_code_generator_main
+    branches: main
 
 jobs:
   deploy:
