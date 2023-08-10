@@ -3,6 +3,8 @@
 
 Text to QR Code image generator made in React JS
 
+# Live Link
+[1]: https://qr-generator-dastageer.deno.dev/
 
 
 
@@ -12,6 +14,8 @@ I'm a Front-end developer, working with JavaScript/TypeScript Angular/React
 
 ## 🛠 Tools Used
 Javascript, ReactJS, HTML, CSS, DENO
+
+
 
 
 
