@@ -2,7 +2,6 @@ import { useState } from 'react';
 import './App.css';
 import placeholder from './assets/images/qr-placeholder.jpg';
 import QRCode from "react-qr-code";
-import { Input } from "@material-tailwind/react";
 
 // utilit methods
 function onImageDownload() {
