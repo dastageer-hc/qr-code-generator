@@ -1,7 +1,7 @@
 
-# QR Code Generator |  Vanilla JS
+# QR Code Generator |  React JS
 
-Text to QR Code image generator made in pure vanilla JS
+Text to QR Code image generator made in React JS
 
 
 
