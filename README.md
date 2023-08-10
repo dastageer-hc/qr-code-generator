@@ -10,8 +10,8 @@ Text to QR Code image generator made in React JS
 I'm a Front-end developer, working with JavaScript/TypeScript Angular/React
 
 
-## 🛠 Skills
-Javascript, HTML, CSS...
+## 🛠 Toold Used
+Javascript, ReactJS, HTML, CSS, DENO
 
 
 
@@ -20,7 +20,7 @@ Javascript, HTML, CSS...
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/dastageer-hc/qr-code-generator.git
 ```
 
 Go to the project directory
