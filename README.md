@@ -10,7 +10,7 @@ Text to QR Code image generator made in React JS
 I'm a Front-end developer, working with JavaScript/TypeScript Angular/React
 
 
-## 🛠 Toold Used
+## 🛠 Tools Used
 Javascript, ReactJS, HTML, CSS, DENO
 
 
