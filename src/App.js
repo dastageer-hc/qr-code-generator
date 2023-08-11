@@ -48,7 +48,7 @@ function App() {
             <input
               type="text"
               value={inputValue}
-              onChange={handleInputChange} placeholder='Enter Text to Generate'
+              onChange={handleInputChange} placeholder={'Enter Text to Generate'}
             />
 
           </p>
