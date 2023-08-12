@@ -3,7 +3,7 @@ import './App.css';
 import placeholder from './assets/images/qr-placeholder.jpg';
 import QRCode from "react-qr-code";
 
-// utilit methods
+// utility methods
 function onImageDownload() {
   const svg = document.getElementById("QRCode");
   console.log(svg, 'svg')
